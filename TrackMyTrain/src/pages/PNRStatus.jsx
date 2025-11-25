@@ -28,7 +28,7 @@ const PNRStatus = () => {
             const options = {
                 method: 'GET',
                 headers: {
-                    'x-rapidapi-key': '37ebc84f84msh613d7f90a99435ap1c6b05jsn6577228717bd',
+                    'x-rapidapi-key': 'xyz',
                     'x-rapidapi-host': 'irctc-train-api.p.rapidapi.com'
                 }
             };
@@ -120,3 +120,4 @@ const PNRStatus = () => {
 };
 
 export default PNRStatus;
+
